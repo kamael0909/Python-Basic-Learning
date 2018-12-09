@@ -12,21 +12,6 @@ def draw_square():
             brad.forward(100)
             brad.right(90)
         brad.right(15)
-    
-    #brad.forward(100)
-    #brad.right(90)
-    #brad.forward(100)
-    #brad.right(90)
-    #brad.forward(100)
-    #brad.right(90)
-    #brad.forward(100)
-    #brad.right(90)
-
-
-    #kamael = turtle.Turtle()
-    #kamael.shape("arrow")
-    #kamael.color("yellow")
-    #kamael.circle(100)
 
     window.exitonclick()
 
